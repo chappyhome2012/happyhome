@@ -4,7 +4,7 @@
   <title><![CDATA[Happy Home]]></title>
   <link href="http://chappyhome2012.github.com/happyhome/atom.xml" rel="self"/>
   <link href="http://chappyhome2012.github.com/happyhome/"/>
-  <updated>2012-10-27T21:22:27+08:00</updated>
+  <updated>2012-10-27T21:24:50+08:00</updated>
   <id>http://chappyhome2012.github.com/happyhome/</id>
   <author>
     <name><![CDATA[David]]></name>
@@ -18,9 +18,12 @@
     <link href="http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test/"/>
     <updated>2012-10-27T16:59:00+08:00</updated>
     <id>http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test</id>
-    <content type="html"><![CDATA[<p><em>今天很累
-</em>今天心情很坏
-*今天吃的太饱</p>
+    <content type="html"><![CDATA[<ul>
+<li>今天很累</li>
+<li>今天心情很坏</li>
+<li>今天吃的饱</li>
+</ul>
+
 ]]></content>
   </entry>
   
