@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://chappyhome2012.github.com/happyhome/atom.xml" rel="self"/>
   <link href="http://chappyhome2012.github.com/happyhome/"/>
-  <updated>2012-10-27T17:02:04+08:00</updated>
+  <updated>2012-10-27T17:05:58+08:00</updated>
   <id>http://chappyhome2012.github.com/happyhome/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,13 @@
     <link href="http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test/"/>
     <updated>2012-10-27T16:59:00+08:00</updated>
     <id>http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test</id>
-    <content type="html"><![CDATA[<p>today happy!</p>
+    <content type="html"><![CDATA[<h1>今天的天气情况</h1>
+
+<p>  很好的事情</p>
+
+<h1>明天的情况</h1>
+
+<p>  淡淡的登山队</p>
 ]]></content>
   </entry>
   
