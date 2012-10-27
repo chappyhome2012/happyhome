@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Happy Home]]></title>
   <link href="http://chappyhome2012.github.com/happyhome/atom.xml" rel="self"/>
   <link href="http://chappyhome2012.github.com/happyhome/"/>
-  <updated>2012-10-27T17:05:58+08:00</updated>
+  <updated>2012-10-27T21:22:27+08:00</updated>
   <id>http://chappyhome2012.github.com/happyhome/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
+    <title type="html"><![CDATA[新博第一贴]]></title>
     <link href="http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test/"/>
     <updated>2012-10-27T16:59:00+08:00</updated>
     <id>http://chappyhome2012.github.com/happyhome/blog/2012/10/27/test</id>
-    <content type="html"><![CDATA[<h1>今天的天气情况</h1>
-
-<p>  很好的事情</p>
-
-<h1>明天的情况</h1>
-
-<p>  淡淡的登山队</p>
+    <content type="html"><![CDATA[<p><em>今天很累
+</em>今天心情很坏
+*今天吃的太饱</p>
 ]]></content>
   </entry>
   
